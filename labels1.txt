@@ -1,0 +1,53 @@
+0 avizhal
+1 pazhampori
+2 butternan
+3 chappati
+4 chicken roll
+5 cutlet
+6 masala dosa
+7 egg curry
+8 gulab jamun
+9 halwa
+10 idiyappam
+11 idly
+12 kanji
+13 meals
+14 vadai
+15 pappadam
+16 pathiri
+17 payasam
+18 poori
+19 porotta
+20 puffs
+21 puttu
+22 samosa
+23 upma
+24 vellapam
+25 alfaham
+26 bread
+27 cake
+28 chocolate
+29 shawarma
+30 burger
+31 sandwich
+32 donut
+33 crispy chicken
+34 french fries
+35 pizza
+36 noodles
+37 apple
+38 banana
+39 carrot
+40 orange
+41 watermelon
+42 corn
+43 grapes
+44 kiwi
+45 mango
+46 pineapple
+47 pomegranate
+48 biscuit
+49 7up
+50 pepsi
+51 tea
+52 Not a food
